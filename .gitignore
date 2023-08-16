@@ -3,9 +3,11 @@ cmake/*
 !cmake/CMakeLists.txt
 *.iml
 target/
+build/
 *.log
 .attach_pid*
 /.classpath
 /.cproject
 /.project
+buildSrc/
 .settings/
